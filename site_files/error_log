@@ -1,0 +1,7 @@
+[12-Feb-2013 10:32:50] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/afpadmin/public_html/application/helpers/adclick_helper.php on line 21
+[12-Feb-2013 10:32:50] PHP Parse error:  syntax error, unexpected $end in /home/afpadmin/public_html/application/helpers/adclick_helper.php on line 22
+[12-Feb-2013 11:36:28] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/afpadmin/public_html/application/models/modeladclicks.php on line 81
+[12-Feb-2013 11:36:28] PHP Parse error:  syntax error, unexpected $end in /home/afpadmin/public_html/application/models/modeladclicks.php on line 83
+[12-Feb-2013 11:36:31] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/afpadmin/public_html/application/models/modeladclicks.php on line 81
+[12-Feb-2013 11:36:31] PHP Parse error:  syntax error, unexpected $end in /home/afpadmin/public_html/application/models/modeladclicks.php on line 83
+[12-Feb-2013 13:05:30] PHP Fatal error:  Class 'Modeladclicks' not found in /home/afpadmin/public_html/system/core/Loader.php on line 225

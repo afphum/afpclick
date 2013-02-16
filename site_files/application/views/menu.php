@@ -1,0 +1,5 @@
+<div id="radioset" class="ui-buttonset">
+		<input type="radio" id="radio1" name="radio" class="ui-helper-hidden-accessible"><label for="radio1" class="ui-button ui-widget ui-state-default ui-button-text-only ui-corner-left" role="button" aria-disabled="false" aria-pressed="false"><span class="ui-button-text">Choice 1</span></label>
+		<input type="radio" id="radio2" name="radio" checked="checked" class="ui-helper-hidden-accessible"><label for="radio2" class="ui-button ui-widget ui-state-default ui-button-text-only" role="button" aria-disabled="false" aria-pressed="false"><span class="ui-button-text">Choice 2</span></label>
+		<input type="radio" id="radio3" name="radio" class="ui-helper-hidden-accessible"><label for="radio3" class="ui-button ui-widget ui-state-default ui-button-text-only ui-corner-right ui-state-active" role="button" aria-disabled="false" aria-pressed="true"><span class="ui-button-text">Choice 3</span></label>
+	</div>

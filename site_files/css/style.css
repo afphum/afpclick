@@ -1,0 +1,19 @@
+body								{font-family: Arial; font-size: 12px;}
+.wrapper 							{width: 980px; margin: 10px auto}
+
+#register_form  label 				{width: 170px; float: left}
+#report_form label					{width: 120px; float: left}
+#report_form input					{float: left}
+#change_password_form label			{width: 120px; float: left}
+#change_password_form input			{float: left}
+
+#content  							{width: 720px; float: left; padding-left: 20px; border-left: 1px solid black; min-height: 500px}
+#menu								{width: 180px; float: left}
+#menu li							{cursor: pointer; list-style: none; padding: 3px;}
+#menu li:hover						{text-decoration: underline}
+#login								{width: 350px; min-height: 200px; height:auto; border: 1px solid black; margin: 50px auto; padding: 10px}
+#login label						{width: 170px; float: left}
+.error								{color: red}
+tr.alt td							{background-color: #ecf6fc}
+tr.over td							{background-color: #bcd4ec}
+
